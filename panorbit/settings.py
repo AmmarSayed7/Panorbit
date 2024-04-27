@@ -147,3 +147,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'ss19if042@gmail.com'
 EMAIL_HOST_PASSWORD = 'xvaa ymeu gbns pjuo'
 EMAIL_PORT = 587
+
+STATIC_ROOT = os.path.join(BASE_DIR, '/static/')
